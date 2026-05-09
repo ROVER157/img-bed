@@ -1,0 +1,43 @@
+# 花粉智能检测系统图标说明
+
+根据app.json配置，需要创建以下图标文件（建议使用统一的风格，如线条图标或填充图标）：
+
+## 底部导航栏图标
+1. **花粉浓度图标**
+   - pollen-level-no.png（未选中状态）
+   - pollen-level-yes.png（选中状态）
+
+2. **花粉知识图标**
+   - pollen-knowledge-no.png（未选中状态）
+   - pollen-knowledge-yes.png（选中状态）
+
+3. **全国花粉地图图标**
+   - pollen-map-no.png（未选中状态）
+   - pollen-map-yes.png（选中状态）
+
+4. **药品商品图标**
+   - medicine-no.png（未选中状态）
+   - medicine-yes.png（选中状态）
+
+5. **我的图标**
+   - wode-no.png（未选中状态）
+   - wode-yes.png（选中状态）
+
+## 其他图标
+1. **地图标记图标**
+   - marker.png（用于全国花粉地图上的城市标记）
+
+2. **默认头像图标**
+   - avatar-default.png（用于未登录用户的默认头像）
+
+3. **药品默认图片**
+   - medicine-default.png（用于药品商品的默认图片）
+
+## 图标风格建议
+- 保持与现有图标（wode-no.png, wode-yes.png等）一致的风格
+- 尺寸建议：40x40像素（底部导航栏图标）
+- 颜色：未选中状态使用灰色，选中状态使用蓝色（#007aff）
+
+## 现有图标命名规则
+- 未选中状态：功能名称-no.png
+- 选中状态：功能名称-yes.png
